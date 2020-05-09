@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>idcunyu.github.io</id>
+    <id>https://idcunyu.github.io</id>
     <title>村雨</title>
-    <updated>2020-05-09T06:05:52.097Z</updated>
+    <updated>2020-05-09T06:10:03.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="idcunyu.github.io"/>
-    <link rel="self" href="idcunyu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://idcunyu.github.io"/>
+    <link rel="self" href="https://idcunyu.github.io/atom.xml"/>
     <subtitle>静水流深</subtitle>
-    <logo>idcunyu.github.io/images/avatar.png</logo>
-    <icon>idcunyu.github.io/favicon.ico</icon>
+    <logo>https://idcunyu.github.io/images/avatar.png</logo>
+    <icon>https://idcunyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 村雨</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>idcunyu.github.io/post/hello-gridea/</id>
-        <link href="idcunyu.github.io/post/hello-gridea/">
+        <id>https://idcunyu.github.io/post/hello-gridea/</id>
+        <link href="https://idcunyu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
